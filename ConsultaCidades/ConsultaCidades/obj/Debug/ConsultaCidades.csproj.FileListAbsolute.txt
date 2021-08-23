@@ -1,0 +1,10 @@
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\bin\Debug\ConsultaCidades.exe.config
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\bin\Debug\ConsultaCidades.exe
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\bin\Debug\ConsultaCidades.pdb
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\obj\Debug\ConsultaCidades.csprojAssemblyReference.cache
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\obj\Debug\ConsultaCidades.telaMenu.resources
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\obj\Debug\ConsultaCidades.Properties.Resources.resources
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\obj\Debug\ConsultaCidades.csproj.GenerateResource.cache
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\obj\Debug\ConsultaCidades.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\obj\Debug\ConsultaCidades.exe
+C:\Users\Vanderson\Documents\GitHub\ConsultaCidades-Form\ConsultaCidades\ConsultaCidades\obj\Debug\ConsultaCidades.pdb
